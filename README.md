@@ -35,7 +35,6 @@ Her kullanıcı tipinin farklı yetkileri ve erişim izinleri bulunmaktadır.
 ## 🏗️ Teknolojiler & Araçlar  
 | Teknoloji | Açıklama |  
 |-----------|---------|  
-| **C# (.NET Framework)** | Uygulamanın temel yazılım dili |  
+| **C#** | Uygulamanın temel yazılım dili |  
 | **MSSQL** | Veritabanı yönetimi |  
-| **Entity Framework** | Veritabanı işlemleri için ORM |  
-| **SMTP (E-posta Gönderimi)** | Grup yöneticilerine bilgilendirme maili göndermek için |  
+  
